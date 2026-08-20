@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **vaibhav381994@gmail.com** For Collaboration/Project/Job o
 
 ## 🐍 My Contribution Snake
 
-![GitHub Snake](https://githubusercontent.comvaibhavjoshi1994/vaibhavjoshi1994/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/vaibhavjoshi1994/vaibhavjoshi1994/output/github-contribution-grid-snake.svg)
 
 
 # 📊 GitHub Stats:
